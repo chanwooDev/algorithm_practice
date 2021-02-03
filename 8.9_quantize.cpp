@@ -1,6 +1,13 @@
 #include <iostream>
 #include <cstring>
 #include <algorithm>
+/*
+일반화 -> 한 덩이씩
+
+기저사례 체크!!
+예외부분 놓침
+
+*/
 
 using namespace std;
 const int INF = 999999999;
